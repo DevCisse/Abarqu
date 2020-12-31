@@ -1,0 +1,52 @@
+﻿@using Abarqu.Models
+
+
+<div class="card">
+    <div class="card-header  text-center" style="color: white;background-color: #155724">
+        <span style="font-family: 'Amiri', serif;">@TextHeaderFooter</span>
+    </div>
+    <div class="card-body">
+        @*<h4 class="card-title float-right">@Bait.ArabicText</h4>*@
+        <p class="float-right h4 mb-3" style="font-size:xx-large;font-family: 'Amiri', serif; ">&nbsp;** @Part1   </p>
+
+        <p class="float-right h4 mb-3" style="font-size:xx-large;font-family: 'Amiri', serif;"> @Part2 </p>
+
+
+        @if (ShowTranslation)
+        {
+
+            <p class="h4 float-left"> @Bait.EnglishText</p>
+        }
+    </div>
+    <div class="card-footer text-center" style="color:white;background-color: #155724">
+        <span style="font-family: 'Amiri', serif;">@TextHeaderFooter</span>
+    </div>
+</div>
+
+<br />
+<br />
+
+
+
+@code
+{
+    public string Part1 { get; set; }
+    public string Part2 { get; set; }
+    protected override void OnInitialized()
+    {
+
+        string[] splitted = Bait.ArabicText.Split("*");
+        Part1 = splitted[0];
+        Part2 = splitted[1];
+
+    }
+
+
+    public string TextHeaderFooter { get; set; } = "حرف العين";
+
+    [Parameter]
+    public Bait Bait { get; set; }
+
+    [Parameter]
+    public bool ShowTranslation { get; set; }
+}

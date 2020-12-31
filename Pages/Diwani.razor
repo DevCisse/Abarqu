@@ -1,0 +1,104 @@
+﻿@page "/Diwani"
+@inject HttpClient Http
+
+@using Abarqu.Models
+
+
+<div class="row">
+    <div class="col-12">
+
+        <div class="">
+            <h2>Diwanai of Shaykh Ibrahim Inyass</h2>
+
+            <input type="checkbox" class="form-check-input" @bind="ShowTranslation" /> <span class="form-check-label"> Show Translation  </span> <br />
+
+        </div>
+
+        @if (Baits != null)
+        {
+            @foreach (var item in Baits)
+            {
+
+                <Abarqu.Components.BaitContainer Bait="item" ShowTranslation="ShowTranslation" />
+
+            }
+        }
+
+    </div>
+
+</div>
+
+
+@code {
+
+
+    private List<Bait> Baits = new List<Bait>();
+
+
+    public bool ShowTranslation { get; set; } = true;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        Baits = await Http.GetFromJsonAsync<List<Bait>>("sample-data/Abarqu.json");
+    }
+
+
+    #region commented code
+
+    //public bool ShowTranslation { get; set; } = true;
+    //List<Bait> Baits = new List<Bait>();
+
+    //protected override void OnInitialized()
+    //{
+    //    GetAbyaats();
+    //}
+
+
+
+
+    //void GetAbyaats()
+    //{
+    //    Bait b1 = new Models.Bait
+    //    {
+    //        Id = 1,
+    //        ArabicText = "أبرق بدى نحو المرابع يلمــــــــع * فهبني امرءاً إذ يلمع البرق يدمــــــعُ",
+    //        EnglishText = "Was it a lightening that appeared shining towards the houses, so (kindly) me a person who shed tears whenever the lightening shines"
+    //    };
+    //    Bait b2 = new Models.Bait
+    //    {
+    //        Id = 2,
+    //        ArabicText = "لمحت بوهن ويك هِجت صبابــــة * ورقراقَ دمعٍ ساعة الحيِّ تهجــــــــعُ",
+    //        EnglishText = "You took a lackadaisical glance, woe to you! You have a arouse a longing and a flood of tears when the neighbours are slumbering"
+    //    };
+    //    Bait b3 = new Models.Bait
+    //    {
+    //        Id = 3,
+    //        ArabicText = "تذكّرت أيّام الصِّبا وهي قد مضتْ * ولم يبق إلا لوعةٌ وتوجُّــــــــــــــــــــعُ",
+    //        EnglishText = "You are remembering the days of childhood which left save love-sickeness and ailment"
+    //    };
+    //    Bait b4 = new Models.Bait
+    //    {
+    //        Id = 4,
+    //        ArabicText = "سقى الله أرضاً بالمدينة إنَّهــــــا * مـــــحطُّ رحالٍ فيه خّرْقِيَ يُرْقَـــــــــــعُ",
+    //        EnglishText = "May Allah irrigate a land at al-medinah, verily, it is the station of spiritual travelers. It is there my tatter was patched"
+    //    };
+
+    //    List<Bait> baits = new List<Bait>();
+
+    //    baits.Add(b1);
+    //    baits.Add(b2);
+    //    baits.Add(b3);
+    //    baits.Add(b4);
+
+
+
+    //    Baits.Add(b1);
+    //    Baits.Add(b2);
+    //    Baits.Add(b3);
+    //    Baits.Add(b4);
+    //}
+
+
+    #endregion
+}
