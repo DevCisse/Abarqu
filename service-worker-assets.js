@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-fn6NZosYQxWa9zBiHnN7MmW+5lEB4gEu7jsKyZfMyY4=",
+      "hash": "sha256-l05tAGqIo\/AinBBbMaTn0IT6mWbJ7Y5ZwYgIem9R1BI=",
       "url": "sample-data\/Abarqu.json"
     },
     {
@@ -265,5 +265,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "UiqkXq\/B"
+  "version": "PSV59WhM"
 };
