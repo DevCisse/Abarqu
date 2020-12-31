@@ -2,7 +2,7 @@
   {
     "Id": "1",
     "ArabicText": "أَبَـرْقٌ بَـدَى نَحْوَ المَرَابِعِ يَلْمَعُ * فَهَبْنِى امْــرَءًا إِذْ يَلْمَعُ البَرْقُ يَدْمَعُ",
-    "EnglishText": "Was it a lightening that appeared shining towards the houses, so (kindly) consider me a person who shed tears whenever the lightening shines."
+    "EnglishText": "Was it a lightening that appeared shining towards the houses ? so (kindly) consider me a person who shed tears whenever the lightening shines."
   },
   {
     "Id": "2",
@@ -14,10 +14,16 @@
     "ArabicText": "تُذَكِّرُ أَيَّامَ الصِّبَا وَهْـيَ قَدْ مَـضَتْ * وَلَـمْ يَبْقَ إِلاَّ لـَــوْعَةٌ وَتَـوَجُّعُ ",
     "EnglishText": "You are remembering the days of childhood which left save love-sickeness and ailment"
   },
+
   {
     "Id": "4",
     "ArabicText": "سَقَى اللهُ أَرْضًا بـِـالمَدِينَةِ إِنَّــهَا * مَحَطُّ رِحَـالٍ فِيـهِ حَـرْقِيَ يُرْقَعُ",
     "EnglishText": "May Allah irrigate a land at al-Madinah, verily, it’s the station of spiritual travelers. It is there my tatter was patched."
+  },
+  {
+    "Id": "5",
+    "ArabicText": "دِيـَـارُ حَبِيبِ اللهِ وَهـُـــوَ أَمِينُهُ *  دِيِارٌ بِـــهَا تُلْفَى المرَافِقُ أَجْمَعُ",
+    "EnglishText": "You are remembering the days of childhood which left save love-sickeness and ailment"
   },
   {
     "Id": "6",
@@ -38,7 +44,130 @@
     "Id": "9",
     "ArabicText": "فَقَدْ كَانَ خَيْرُ الخَلْقِ فَخْمًا مُفَخَّصًا * وَذُو هَيْبَـةٍ وَالمَشْـيُ فِيهِ تَقَلـُّـعُ",
     "EnglishText": "Indeed, the best of creations has being a venerated great personality, highly esteemed and his style of walking is elegantly free."
+  },
+  {
+    "Id": "10",
+    "ArabicText": "وَأَزْهَرُ لَوْنٍ أَدْعَجُ العَيْنِ تَـزْدَرِى *  بِعَيْنِ مَهَى عِنْدَ الخَمِيلَةِ تَـــرْتَعُ",
+    "EnglishText": "He is of pale color, black eyes that devalue the beauty of bull-eyes that are always opened with his eyelash."
+  },
+  {
+    "Id": "11",
+    "ArabicText": "وَأَنْجَلُ عَيْنٍ أَهْدَبُ الشَّفْـرِ وَاسِعٌ * جَبِينُ رَسـُولِ اللهِ وَالخُلْقُ أَوْسَعُ",
+    "EnglishText": "He is of big eyeballs, abundant eyelid. The messenger of Allah is of broad brow and broad nature."
+  },
+  {
+    "Id": "12",
+    "ArabicText": "أَزَجُّ وَأَقْنَـى وَجْهُ طَـهَ مُــدَوَّرٌ * وَلِحْيَتُهُ كَثًّــا وَصَــدْرٌ مُوَسَّعُ",
+    "EnglishText": "12.\tHe is of perfect eyebrow, aquiline nose, Taha’s face is round, his beard thick and (his) chest is broad.   "
+  },
+  {
+    "Id": "13",
+    "ArabicText": "وَمَنْكِبُهُ أَعْظِمْ بِــهِ وَعِظَامُـهُ * ضِخَامٌ وَرَبْعُ الَقَـدِّ طَـــهَ المُرَفَّعُ ",
+    "EnglishText": "What a magnificent is his shoulder, a hefty and of a moderate height is Taha, the exalted."
+  },
+  {
+    "Id": "14",
+    "ArabicText": "كَذَا عَضُـدُّ عَبْلٌ وَعَبْلٌ ذِرَاعُـهُ * مُـرَحَّبُ رَاحَاتٍ وَالأَنْــوَارُ تَلْمَعُ",
+    "EnglishText": "14.\tThus are his arms beefy, he is of wine palms and his teethes shine."
+  },
+  
+  {
+    "Id": "15",
+    "ArabicText": "وَسَائِلُ أَطْــرَافٍ وَغَيْرُ مُشَذَّبٍ * عَظِيمُ كَــرَادِيسٍ مِنَ الخَلْقِ أَرْفَعُ",
+    "EnglishText": "15.\tHis fingers are moderate and not skinny. He is of great joints, relatively excellent."
+  },
+  {
+    "Id": "16",
+    "ArabicText": "وَأَشْنَبُ ثَغْـرٍ إِنْ تَبَسَّمَ يَنْجَلـِى * كَحَبِّ غَـمَامٍ أَوْ لَـكَالبَرْقِ يَلْمَعُ",
+    "EnglishText": "He has perfect set of white teeth which appeared whenever he smiled like an ice-block."
+  },
+  {
+    "Id": "17",
+    "ArabicText": "وَهَـامَتُهُ عُظْمَى لِشَعْـرٍ تَـرَجُّلٌ * وَخَـافِضُ طَرْفٍ سَاكِتٌ فَهُوَ يَخْشَعُ",
+    "EnglishText": "His head is great (big) for his abundant hair. He is a lowest of his gaze and quiet in humbleness."
+  },
+  {
+    "Id": "18",
+    "ArabicText": "وَأَحْـزَانُـهُ مَـوْ صُـولَةٌ بِتَفَكُّرٍ *  وَإِنْ قَالَ قَالَ الـفَصْلَ وَالحَقَّ يَرْجِعُ",
+    "EnglishText": "His anguish was connected to contemplation and whenever he spoke he says distinguished words and the truth that prevails."
+  },
+  {
+    "Id": "19",
+    "ArabicText": "وَيَنْظُرُ لَحْظًا وَهُـوَ لِلأَرْضِ غَالِبًا * يَـــسُوقُ صِحَابًا وَالْمَلاَئِكُ  تَتْبِعُ",
+    "EnglishText": "He did look in most cases towards the ground (i.e. lowering his gaze). He did lead the companions while angels did follow."
+  },
+  {
+    "Id": "20",
+    "ArabicText": "وَجِيدُ رَسُـولِ اللهِ يُشْبِـهُ دُمْيَةً * إِذَا فَـرَّقَ الأَشْـــعَارَ يَبْدُو وَيَلْمَعُ",
+    "EnglishText": "The neck of the Apostle of Allah is reddish whenever he parted the hair, it appeared shined."
+  },
+
+  {
+    "Id": "21",
+    "ArabicText": "وَكَاللُّؤْلُؤِ المَكْنُونِ وَالمِسْكِ عَرْقُهُ * فَمِثْلَ رَسُــولِ اللهِ لَمْ يَحْظَ مَجْمَعُ",
+    "EnglishText": "He is like well-guarded pearls and his sweat is pleasant like Musk. Thus, the life (of the qualities) of the messenger of Allah was never met."
+  },
+  {
+    "Id": "22",
+    "ArabicText": "وَأَحْلَـمُ خَلْقِ اللهِ أَعْـدَلُ خَلْقِهِ * مِنَ النَّاسِ أَسْخَى بَلْ مِنَ النَّاسِ أَشْجَعُ",
+    "EnglishText": "He is the most forebearant of all men, the most perfect in creation, the most generous of all men, he is rather the bravest of all men. "
+  },
+  {
+    "Id": "23",
+    "ArabicText": "وَيَخْدُمُ لِلأَهْلِينَ يَخْصِفُ نَعْلَـهُ * وَيَقْطَـعُ لَحْمًا وَهُــوَ لِلثَّوْبِ يَرْقَعُ",
+    "EnglishText": "He did serve his family, repair his shoes by himself, cut meat and parch his cloth by himself."
+  },
+  {
+    "Id": "24",
+    "ArabicText": "أَشَدُّ حَـيَاءً وَهْوَ يَأْتِى لِمَنْ دَعَا * وَيَــغْضَبُ لِلْمَوْلَى إِلَى الحَقِّ يَرْجِعُ",
+    "EnglishText": "He is highly bashful, he did honour invitations. His exasperation (fury) is for (the course of) Allah and he return to Allah in all affairs."
+  },
+  {
+    "Id": "25",
+    "ArabicText": "وَلَمْ يَتَـوَرَّعْ عَنْ حَلاَلٍ وَلَوْ حَلاَ * وَلَمْ تُلْفِهِ فِـى غَالِـبِ الوَقْتِ يَشْبَعُ",
+    "EnglishText": "He is highly bashful, he did honour invitations. His exasperation (fury) is for (the course of) Allah and he return to Allah in all affairs."
+  },
+  {
+    "Id": "26",
+    "ArabicText": "وَيُـرْكَبُ أَحْـيَانًا جَوَادًا وَمَرَّةً * حِـمَارًا وَحِينًا رَاجـِــلاً يَـتَقَلَّعُ",
+    "EnglishText": "At times, he did ride on steed and sometime on a donkey and in some cases. He treks "
+  },
+  {
+    "Id": "27",
+    "ArabicText": "كَذَالِكَ فِى المَلْبُوسِ وَالطِّيبُ فَائِحٌ * يُجَالِسُ أَقْـوَامًا  وَالأَصْوَاتُ تُرْفَعُ",
+    "EnglishText": "Thus, he is (moderate and humble) in his dressing and application of scent, he did sit group of people while their voices were raised loudly."
+  },
+  {
+    "Id": "28",
+    "ArabicText": "وَيَمْـزَحُ أَحْـيَانًا يُوَلِّفُ مَـرَّةً * وَمَا هَـابَ مُلْكًا قَطُّ فَالشَّانُ أَرْفَعُ",
+    "EnglishText": "At times he did crack jokes, forge relationship (among people). He never stood, for once, in awe of any tyrant. His affairs are, indeed, great."
+  },
+  {
+    "Id": "29",
+    "ArabicText": "وَمَا حَقَّرَ المِسْكِينَ يَدْعُو جَمِيعَهُمْ  * وَبِاللهِ مَـوْلَى الخَلْقِ ذَا الخَلْقَ يَجْمَعُ",
+    "EnglishText": "He never humiliated paupers, he interacted with them, to God be the glory for the good morals he possessed."
+  },
+  {
+    "Id": "30",
+    "ArabicText": "وَأَكْرَمَهُ المَوْلَى أَجَلَّ كَــرَامَةٍ * وَخَصَّصَـهُ مَنْ لِلْخـَـلاَئـقِ يَنْفَعُ",
+    "EnglishText": "(Allah) the Absolute Master honoured him and He who benefits the whole of creatures distinguished him."
+  },
+  {
+    "Id": "31",
+    "ArabicText": "عَلَيْـهِ صَــلاَةُ اللهِ مـَا ذَرَّ شَارِقٌ * وَغَنَّتْ حَمَامَاتٌ عَلَى الغُصْنِ تَسْجَعُ",
+    "EnglishText": "May blessing and peace of Allah be upon him whenever the sun shines and whenever pigeons chant coo on the stems (of trees)."
+  },
+  {
+    "Id": "32",
+    "ArabicText": "وَمَا رُدَّ ضَيْمُ الدَّهْرُ عَنْ سَاحَةِ الَّذِى * يُزَخْرِفُ أَمْدَاحًا وَيَشْدُوا وَيَسْجَعُ",
+    "EnglishText": "And whenever veranda of one who eulogizes (the prophet) fascinatingly sings and chants, is protected against life adversities."
+  },
+  {
+    "Id": "33",
+    "ArabicText": "وَآلِ وَأَصْحَابٍ مَدَى قَوْلِ شَـيِّقٍ * أَبَرْقٌ بَدَا نَحْوَ الْـمَرَابِعِ يَلْـمَعُ",
+    "EnglishText": "May the blessing include his household and his companion as far as the lover says: was it a lightening that appeared shinning towards the houses?"
   }
+
 
 
 ]
