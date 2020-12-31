@@ -6,8 +6,8 @@
   },
   {
     "Id": "2",
-    "ArabicText": "لمَحْتَ بـِـوَهْنٍ وَيْكَ هِجْتَ صَبَابَة * وَرَقْـــرَاقَ دَمْعٍ سَاعَةَ الحَىِّ تَهْجَعُ",
-    "EnglishText": "2.\tYou took a lackadaisical glance, woe to you! You have arouse longing and a flood of tears when the neighbours are slumbering."
+    "ArabicText": "لمَحْتَ بـِـوَهْنٍ وَيْكَ هِجْتَ صَبَابَة* وَرَقْـــرَاقَ دَمْعٍ سَاعَةَ الحَىِّ تَهْجَعُ",
+    "EnglishText": "You took a lackadaisical glance, woe to you! You have arouse longing and a flood of tears when the neighbours are slumbering."
   },
   {
     "Id": "3",
@@ -32,8 +32,8 @@
   },
   {
     "Id": "7",
-    "ArabicText": "دِيَـارٌ لأِعْلَى الخَلْقِ خُلْقًا وَخِلْـقَةً * دِيَارٌ لِــمَنْ فِي الخَلْقِ يُعْطِى وَيَمْنَعُ",
-    "EnglishText": "7.\tIt is an abode of the most exalted (of all) creations morally and physically. It is an abode of he who gives and denies among the creations."
+    "ArabicText": "دِيَـارٌ لأِعْلَى الخَلْقِ خُلْقًا وَخِلْـقَةً*دِيَارٌ لِــمَنْ فِي الخَلْقِ يُعْطِى وَيَمْنَعُ",
+    "EnglishText": "tIt is an abode of the most exalted (of all) creations morally and physically. It is an abode of he who gives and denies among the creations."
   },
   {
     "Id": "8",
@@ -58,7 +58,7 @@
   {
     "Id": "12",
     "ArabicText": "أَزَجُّ وَأَقْنَـى وَجْهُ طَـهَ مُــدَوَّرٌ * وَلِحْيَتُهُ كَثًّــا وَصَــدْرٌ مُوَسَّعُ",
-    "EnglishText": "12.\tHe is of perfect eyebrow, aquiline nose, Taha’s face is round, his beard thick and (his) chest is broad.   "
+    "EnglishText": "tHe is of perfect eyebrow, aquiline nose, Taha’s face is round, his beard thick and (his) chest is broad.   "
   },
   {
     "Id": "13",
@@ -68,13 +68,13 @@
   {
     "Id": "14",
     "ArabicText": "كَذَا عَضُـدُّ عَبْلٌ وَعَبْلٌ ذِرَاعُـهُ * مُـرَحَّبُ رَاحَاتٍ وَالأَنْــوَارُ تَلْمَعُ",
-    "EnglishText": "14.\tThus are his arms beefy, he is of wine palms and his teethes shine."
+    "EnglishText": "Thus are his arms beefy, he is of wine palms and his teethes shine."
   },
   
   {
     "Id": "15",
-    "ArabicText": "وَسَائِلُ أَطْــرَافٍ وَغَيْرُ مُشَذَّبٍ * عَظِيمُ كَــرَادِيسٍ مِنَ الخَلْقِ أَرْفَعُ",
-    "EnglishText": "15.\tHis fingers are moderate and not skinny. He is of great joints, relatively excellent."
+    "ArabicText": "وَسَائِلُ أَطْــرَافٍ وَغَيْرُ مُشَذَّبٍ*عَظِيمُ كَــرَادِيسٍ مِنَ الخَلْقِ أَرْفَعُ",
+    "EnglishText": "tHis fingers are moderate and not skinny. He is of great joints, relatively excellent."
   },
   {
     "Id": "16",
@@ -83,12 +83,12 @@
   },
   {
     "Id": "17",
-    "ArabicText": "وَهَـامَتُهُ عُظْمَى لِشَعْـرٍ تَـرَجُّلٌ * وَخَـافِضُ طَرْفٍ سَاكِتٌ فَهُوَ يَخْشَعُ",
+    "ArabicText": "وَهَـامَتُهُ عُظْمَى لِشَعْـرٍ تَـرَجُّلٌ*وَخَـافِضُ طَرْفٍ سَاكِتٌ فَهُوَ يَخْشَعُ",
     "EnglishText": "His head is great (big) for his abundant hair. He is a lowest of his gaze and quiet in humbleness."
   },
   {
     "Id": "18",
-    "ArabicText": "وَأَحْـزَانُـهُ مَـوْ صُـولَةٌ بِتَفَكُّرٍ *  وَإِنْ قَالَ قَالَ الـفَصْلَ وَالحَقَّ يَرْجِعُ",
+    "ArabicText": "وَأَحْـزَانُـهُ مَـوْ صُـولَةٌ بِتَفَكُّرٍ*وَإِنْ قَالَ قَالَ الـفَصْلَ وَالحَقَّ يَرْجِعُ",
     "EnglishText": "His anguish was connected to contemplation and whenever he spoke he says distinguished words and the truth that prevails."
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "Id": "22",
-    "ArabicText": "وَأَحْلَـمُ خَلْقِ اللهِ أَعْـدَلُ خَلْقِهِ * مِنَ النَّاسِ أَسْخَى بَلْ مِنَ النَّاسِ أَشْجَعُ",
+    "ArabicText": "وَأَحْلَـمُ خَلْقِ اللهِ أَعْـدَلُ خَلْقِهِ*مِنَ النَّاسِ أَسْخَى بَلْ مِنَ النَّاسِ أَشْجَعُ",
     "EnglishText": "He is the most forebearant of all men, the most perfect in creation, the most generous of all men, he is rather the bravest of all men. "
   },
   {
@@ -134,17 +134,17 @@
   },
   {
     "Id": "27",
-    "ArabicText": "كَذَالِكَ فِى المَلْبُوسِ وَالطِّيبُ فَائِحٌ * يُجَالِسُ أَقْـوَامًا  وَالأَصْوَاتُ تُرْفَعُ",
+    "ArabicText": "كَذَالِكَ فِى المَلْبُوسِ وَالطِّيبُ فَائِحٌ*يُجَالِسُ أَقْـوَامًا  وَالأَصْوَاتُ تُرْفَعُ",
     "EnglishText": "Thus, he is (moderate and humble) in his dressing and application of scent, he did sit group of people while their voices were raised loudly."
   },
   {
     "Id": "28",
-    "ArabicText": "وَيَمْـزَحُ أَحْـيَانًا يُوَلِّفُ مَـرَّةً * وَمَا هَـابَ مُلْكًا قَطُّ فَالشَّانُ أَرْفَعُ",
+    "ArabicText": "وَيَمْـزَحُ أَحْـيَانًا يُوَلِّفُ مَـرَّةً*وَمَا هَـابَ مُلْكًا قَطُّ فَالشَّانُ أَرْفَعُ",
     "EnglishText": "At times he did crack jokes, forge relationship (among people). He never stood, for once, in awe of any tyrant. His affairs are, indeed, great."
   },
   {
     "Id": "29",
-    "ArabicText": "وَمَا حَقَّرَ المِسْكِينَ يَدْعُو جَمِيعَهُمْ  * وَبِاللهِ مَـوْلَى الخَلْقِ ذَا الخَلْقَ يَجْمَعُ",
+    "ArabicText": "وَمَا حَقَّرَ المِسْكِينَ يَدْعُو جَمِيعَهُمْ*وَبِاللهِ مَـوْلَى الخَلْقِ ذَا الخَلْقَ يَجْمَعُ",
     "EnglishText": "He never humiliated paupers, he interacted with them, to God be the glory for the good morals he possessed."
   },
   {
@@ -154,12 +154,12 @@
   },
   {
     "Id": "31",
-    "ArabicText": "عَلَيْـهِ صَــلاَةُ اللهِ مـَا ذَرَّ شَارِقٌ * وَغَنَّتْ حَمَامَاتٌ عَلَى الغُصْنِ تَسْجَعُ",
+    "ArabicText": "عَلَيْـهِ صَــلاَةُ اللهِ مـَا ذَرَّ شَارِقٌ*وَغَنَّتْ حَمَامَاتٌ عَلَى الغُصْنِ تَسْجَعُ",
     "EnglishText": "May blessing and peace of Allah be upon him whenever the sun shines and whenever pigeons chant coo on the stems (of trees)."
   },
   {
     "Id": "32",
-    "ArabicText": "وَمَا رُدَّ ضَيْمُ الدَّهْرُ عَنْ سَاحَةِ الَّذِى * يُزَخْرِفُ أَمْدَاحًا وَيَشْدُوا وَيَسْجَعُ",
+    "ArabicText": "وَمَا رُدَّ ضَيْمُ الدَّهْرُ عَنْ سَاحَةِ الَّذِى*يُزَخْرِفُ أَمْدَاحًا وَيَشْدُوا وَيَسْجَعُ",
     "EnglishText": "And whenever veranda of one who eulogizes (the prophet) fascinatingly sings and chants, is protected against life adversities."
   },
   {
