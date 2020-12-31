@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-K2Dj43C48VOCgccwRAEyONmwi8M7oYxwxRvzFdPfyKw=",
+      "hash": "sha256-r4A+xrc2vTYNZyLO6cdDEgVHvP2Ow8Cs6Vl2bO9PwaE=",
       "url": "sample-data\/Abarqu.json"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-u7ZJJDUMvseStDxDiwS8XIWz5bdWg6vlEqzNOKpXZ58=",
+      "hash": "sha256-d8KUkTSk9v3qRicmVjEXzq9BWskPFoBi4JjDayQ0sqI=",
       "url": "_framework\/Abarqu.dll"
     },
     {
@@ -257,7 +257,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-CHK4deQJuYI9Eat\/+LF2BuvIFbR7GVRGJ2HD7plcFag=",
+      "hash": "sha256-ByGFRfGwR7PytEZQp7p692xuTyPICfBpyUdiuNn\/nQk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -265,5 +265,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "pS1SHZYd"
+  "version": "LP6SVdcX"
 };
