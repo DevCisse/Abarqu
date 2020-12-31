@@ -10,7 +10,12 @@
         <div class="">
             <h2>Abarqu</h2>
 
-            <input type="checkbox" class="form-check-input ml-1" @bind="ShowTranslation" /> <span class="form-check-label ml-5"> Show Translation  </span> <br />
+           
+
+            <div class="custom-control custom-checkbox">
+                <input type="checkbox" class="custom-control-input" id="customCheck1"  @bind="ShowTranslation">
+                <label class="custom-control-label" for="customCheck1">Show translation</label>
+            </div>
 
         </div>
 
