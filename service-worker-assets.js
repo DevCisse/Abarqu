@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-k8ttQt8b3auf2TSFFS+FpMy1PeccST9J5ozTv8hxRMs=",
+      "hash": "sha256-Vt6hisDdULSC5dwwETHL17kgS42\/6xqT+YGeGgwrRn8=",
       "url": "css\/app.css"
     },
     {
@@ -49,7 +49,7 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-Y91Fb2+R89ruEJN8AcmQ+7fkj2n2d2TUNSArXdd9vZo=",
       "url": "favicon.ico"
     },
     {
@@ -57,7 +57,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-K98lF1MtLVB8qCVceRRtO7h8WcmaBHmGppPFGjuF1dI=",
+      "hash": "sha256-RLBLGb4wjndm7HZryep60koQAdz27wzePahkCLSwwCw=",
       "url": "index.html"
     },
     {
@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-r4A+xrc2vTYNZyLO6cdDEgVHvP2Ow8Cs6Vl2bO9PwaE=",
+      "hash": "sha256-2ZQVwnM1Qs1zJSGHjPAoW2LBXBwWGeOCJyz5mogcqeI=",
       "url": "sample-data\/Abarqu.json"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-d8KUkTSk9v3qRicmVjEXzq9BWskPFoBi4JjDayQ0sqI=",
+      "hash": "sha256-q7FqueHzgr5yelWJZy76W3OW4rQAf\/L1ywMGnHUKn6E=",
       "url": "_framework\/Abarqu.dll"
     },
     {
@@ -257,7 +257,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-ByGFRfGwR7PytEZQp7p692xuTyPICfBpyUdiuNn\/nQk=",
+      "hash": "sha256-IBEtOysCJQiTftHQjQXKweKMoYlq1ZQYAgCKJGfvD34=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -265,5 +265,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "LP6SVdcX"
+  "version": "nn4\/hbxf"
 };
