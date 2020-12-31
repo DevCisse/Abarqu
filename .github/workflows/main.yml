@@ -23,8 +23,8 @@ jobs:
     - name: Publish .NET Core Project
       run: dotnet publish Abarqu.csproj -c Release -o release --nologo
 
-    # changes the base-tag in index.html from '/' to 'GitHubPagesDemo' to match GitHub Pages repository subdirectory
-    - name: Change base-tag in index.html from / to GitHubPagesDemo
+    # changes the base-tag in index.html from '/' to 'Abarqu' to match GitHub Pages repository subdirectory
+    - name: Change base-tag in index.html from / to Abarqu
       run: sed -i 's/<base href="\/" \/>/<base href="\/Abarqu\/" \/>/g' release/wwwroot/index.html
 
     # changes the base-tag in index.html from '/' to 'GitHubPagesDemo' to match GitHub Pages repository subdirectory
