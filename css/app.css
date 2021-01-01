@@ -11,7 +11,7 @@ html, body {
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    animation: spin 200ms linear infinite;
+    animation: spin 1000ms linear infinite;
     top: 50%;
     left: 40%;
     position: absolute;

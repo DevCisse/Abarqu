@@ -5,7 +5,7 @@
       "url": "91.gif"
     },
     {
-      "hash": "sha256-JVI85u0R94peJt1n7FTCPK3+gnZTz4vi57eSBVJo5U8=",
+      "hash": "sha256-5HiYJ5gjHQJHt0NE4+lHK+JobGned8FOw7Pxju7L0K8=",
       "url": "css\/app.css"
     },
     {
@@ -269,5 +269,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "WymeOFgd"
+  "version": "pXP9tzGK"
 };
