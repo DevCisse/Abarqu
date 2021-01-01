@@ -5,7 +5,7 @@
       "url": "91.gif"
     },
     {
-      "hash": "sha256-G4JnGyEpjwQHdJIDZc0+Ic+PowJ9YlYnWtXHAWGsC+s=",
+      "hash": "sha256-ax\/g2rnA2Ib5iAjv3zH4YHDn2RnL8JmRiRbQ8jncZ1E=",
       "url": "css\/app.css"
     },
     {
@@ -69,7 +69,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-w1IXOEfs4haxjbZCQzFozl9okuy28u\/rDmg+itHab98=",
+      "hash": "sha256-RVIlaBPc5VvbxrkaY+RuiochPJauR0d9V+vcipLRWt8=",
       "url": "sample-data\/Abarqu.json"
     },
     {
@@ -269,5 +269,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "nDODo0OM"
+  "version": "xfmeTbmz"
 };
