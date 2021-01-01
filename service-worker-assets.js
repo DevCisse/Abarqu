@@ -1,7 +1,11 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-Vt6hisDdULSC5dwwETHL17kgS42\/6xqT+YGeGgwrRn8=",
+      "hash": "sha256-yrzyceHD0701pUKw3f+VFq6MGtxo4Ffw+IJ78L3Qx18=",
+      "url": "91.gif"
+    },
+    {
+      "hash": "sha256-u\/xLylKD74PG+UgEgPYBExw1L\/6npvyDTQbs6EoBZHE=",
       "url": "css\/app.css"
     },
     {
@@ -57,7 +61,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-zp2EYd5SWTQgFWOJB7hx+Q6osdrEZD+ghTqUocUhezk=",
+      "hash": "sha256-mwSMA3VQA+FjsZ+foMTxe6LnKpZGPcXwLupnuyzBX/0=",
       "url": "index.html"
     },
     {
@@ -65,7 +69,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-l05tAGqIo\/AinBBbMaTn0IT6mWbJ7Y5ZwYgIem9R1BI=",
+      "hash": "sha256-w1IXOEfs4haxjbZCQzFozl9okuy28u\/rDmg+itHab98=",
       "url": "sample-data\/Abarqu.json"
     },
     {
@@ -165,7 +169,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-CcMwXdsweBTLoXFg5It0Q+9yNKDdBvYUnbZqKJE86Vk=",
+      "hash": "sha256-dLeBnqBDBOqbrgV3trNo2Nzzdm5hMTke1Fa\/12Ge0i4=",
       "url": "_framework\/Abarqu.dll"
     },
     {
@@ -257,7 +261,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-9STuRQGSW98v75qeiP5q6tokztHOXDrZtA3LsD++OfY=",
+      "hash": "sha256-wRWSufHE2oCNuEPM3KQdfATQedGR6LMz+6WAV6PZ4qc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -265,5 +269,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "PSV59WhM"
+  "version": "rjY+tW+k"
 };
