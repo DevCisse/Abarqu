@@ -20,10 +20,15 @@
         }
         else
         {
-            <div class="custom-control custom-checkbox">
+            <div>
+                <Switch  @bind-Value="ShowTranslation" Class="mb-2" /> show translation
+            </div>
+
+
+            @*<div class="custom-control custom-checkbox">
                 <input type="checkbox" class="custom-control-input" id="customCheck1" @bind="ShowTranslation">
                 <label class="custom-control-label" for="customCheck1">Show translation</label>
-            </div>
+            </div>*@
 
             @foreach (var item in Baits)
             {
@@ -32,10 +37,10 @@
 
             }
 
-            
-                <BackTop></BackTop>
 
-            
+            <BackTop></BackTop>
+
+
 
         }
 
